@@ -1,0 +1,726 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:21+0000\n"
+"PO-Revision-Date: 2023-09-22 20:09+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/appendices_creat-comm/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/appendices/creat-comm.xml:8 lfs-en/appendices/creat-comm.xml:11
+msgid "Creative Commons License"
+msgstr "Άδεια Creative Commons"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/appendices/creat-comm.xml:13
+msgid "Creative Commons Legal Code"
+msgstr "Νομικός Κώδικας της Creative Commons"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/appendices/creat-comm.xml:15
+msgid "Attribution-NonCommercial-ShareAlike 2.0"
+msgstr "Αναφορά-Μη-Εμπορική-Κοινή Διανομή 2.0"
+
+#. type: Content of: <sect1><important><para>
+#: lfs-en/appendices/creat-comm.xml:18
+msgid ""
+"CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL "
+"SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT "
+"RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN \"AS-IS\" "
+"BASIS.  CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION "
+"PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE."
+msgstr ""
+"Η CREATIVE COMMONS CORPORATION ΔΕΝ ΕΙΝΑΙ ΝΟΜΙΚΟ ΓΡΑΦΕΙΟ ΚΑΙ ΔΕΝ ΠΑΡΕΧΕΙ "
+"ΝΟΜΙΚΕΣ ΥΠΗΡΕΣΙΕΣ . Η ΔΙΑΝΟΜΗ ΑΥΤΗΣ ΤΗΣ ΑΔΕΙΑΣ ΔΕΝ ΔΗΜΙΟΥΡΓΕΙ ΜΙΑ ΣΧΕΣΗ "
+"ΔΙΚΗΓΟΡΟΥ-ΠΕΛΑΤΗ. Η CREATIVE COMMONS ΠΑΡΕΧΕΙ ΑΥΤΕΣ ΤΙΣ ΠΛΗΡΟΦΟΡΙΕΣ ΩΣ ΕΧΟΥΝ. "
+"Η CREATIVE COMMONS ΔΕΝ ΠΑΡΕΧΕΙ ΕΓΓΥΗΣΕΙΣ ΣΧΕΤΙΚΑ ΜΕ ΤΙς ΠΑΡΕΧΟΜΕΝΕΣ "
+"ΠΛΗΡΟΦΟΡΙΕΣ ΚΑΙ ΑΠΟΠΟΙΕΙΤΑΙ ΚΑΘΕ ΕΥΘΥΝΗ ΓΙΑ ΖΗΜΙΕΣ ΠΟΥ ΠΡΟΚΥΠΤΟΥΝ ΑΠΟ ΤΗΝ "
+"ΧΡΗΣΗ ΤΟΥΣ."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/appendices/creat-comm.xml:26
+msgid "License"
+msgstr "Άδεια"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/appendices/creat-comm.xml:28
+msgid ""
+"THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE "
+"COMMONS PUBLIC LICENSE (\"CCPL\" OR \"LICENSE\"). THE WORK IS PROTECTED BY "
+"COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS "
+"AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED."
+msgstr ""
+"ΤΟ ΕΡΓΟ (ΟΠΩΣ ΟΡΙΖΕΤΑΙ ΠΑΡΑΚΑΤΩ) ΠΑΡΕΧΕΤΑΙ ΒΑΣΕΙ ΤΩΝ ΟΡΩΝ ΑΥΤΗΣ ΤΗΣ ΔΗΜΟΣΙΑΣ "
+"ΑΔΕΙΑΣ CREATIVE COMMONS (\"CCPL\" ή \"ΑΔΕΙΑ\"). ΤΟ ΕΡΓΟ ΠΡΟΣΤΑΤΕΥΕΤΑΙ ΑΠΟ ΤΟ "
+"ΠΝΕΥΜΑΤΙΚΟ ΔΙΚΑΙΟ ΚΑΙ/Η ΑΛΛΟΝ ΣΧΕΤΙΚΟ ΝΟΜΟ. ΟΠΟΙΑΔΗΠΟΤΕ ΧΡΗΣΗ ΤΟΥ ΕΡΓΟΥ ΠΕΡΑ "
+"ΑΠΟ ΑΥΤΗΝ ΠΟΥ ΕΠΙΤΡΕΠΕΤΑΙ ΒΑΣΕΙ ΑΥΤΗΣ ΤΗΣ ΑΔΕΙΑΣ Η ΤΟΥ ΠΝΕΥΜΑΤΙΚΟΥ ΔΙΚΑΙΟΥ "
+"ΑΠΑΓΟΡΕΥΕΤΑΙ."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/appendices/creat-comm.xml:33
+msgid ""
+"BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO "
+"BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS "
+"CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND "
+"CONDITIONS."
+msgstr ""
+"ΜΕ ΤΗΝ ΕΞΑΣΚΗΣΗ ΚΑΘΕ ΔΙΚΑΙΩΜΑΤΟΣ ΠΟΥ ΠΑΡΕΧΕΤΑΙ ΕΔΩ, ΣΥΜΦΩΝΕΙΤΕ ΚΑΙ "
+"ΑΠΟΔΕΧΕΣΤΕ ΝΑ ΥΠΟΚΕΙΣΤΕ ΚΑΙ ΝΑ ΣΥΝΑΣΠΙΣΤΕΙΤΕ ΣΤΟΥΣ ΟΡΟΥΣ ΑΥΤΗΣ ΤΗΣ ΑΔΕΙΑΣ. Ο "
+"ΑΔΕΙΟΧΗΡΩΤΗΣ ΣΑΣ ΠΑΡΕΧΕΙ ΤΑ ΔΙΚΑΙΩΜΑΤΑ ΠΟΥ ΠΕΡΙΕΧΟΝΤΑΙ ΕΔΩ ΣΕ ΑΝΤΑΛΛΑΓΗ ΓΙΑ "
+"ΤΗΝ ΑΠΟΔΟΧΗ ΣΑΣ ΤΩΝ ΣΥΓΚΕΚΡΙΜΕΝΩΝ ΟΡΩΝ ΚΑΙ ΠΡΟΫΠΟΘΕΣΕΩΝ."
+
+#. type: Content of: <sect1><orderedlist>
+#: lfs-en/appendices/creat-comm.xml:39
+msgid "<?dbfo label-width=\"1.5em\"?>"
+msgstr "<?dbfo label-width=\"1.5em\"?>"
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:41
+msgid "Definitions"
+msgstr "Ορισμοί"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:45
+msgid ""
+"\"Collective Work\" means a work, such as a periodical issue, anthology or "
+"encyclopedia, in which the Work in its entirety in unmodified form, along "
+"with a number of other contributions, constituting separate and independent "
+"works in themselves, are assembled into a collective whole. A work that "
+"constitutes a Collective Work will not be considered a Derivative Work (as "
+"defined below) for the purposes of this License."
+msgstr ""
+"\"Συλλογικό Έργο\" σημαίνει ένα έργο, όπως ένα τεύχος περιοδικού, ανθολογία "
+"ή εγκυκλοπαίδεια, στο οποίο το Έργο σε όλο του το μέγεθος, σε μη "
+"τροποποιημένη μορφή, συνδυάζεται με αρκετές άλλες συνεισφορές, που αποτελούν "
+"ξεχωριστά και ανεξάρτητα έργα καθαυτά, και συντελούν στον σχηματισμό ενός "
+"συλλογικού συνόλου. Ένα έργο που αποτελεί Συλλογικό Έργο δε θα θεωρείται ένα "
+"Παράγωγο Έργο (όπως ορίζεται παρακάτω) για τους σκοπούς αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:54
+msgid ""
+"\"Derivative Work\" means a work based upon the Work or upon the Work and "
+"other pre-existing works, such as a translation, musical arrangement, "
+"dramatization, fictionalization, motion picture version, sound recording, "
+"art reproduction, abridgment, condensation, or any other form in which the "
+"Work may be recast, transformed, or adapted, except that a work that "
+"constitutes a Collective Work will not be considered a Derivative Work for "
+"the purpose of this License. For the avoidance of doubt, where the Work is a "
+"musical composition or sound recording, the synchronization of the Work in "
+"timed-relation with a moving image (\"synching\") will be considered a "
+"Derivative Work for the purpose of this License."
+msgstr ""
+"\"Παράγωγο Έργο\" σημαίνει ένα έργο που βασίζεται στο Έργο ή στο Έργο και σε "
+"άλλα υπάρχοντα έργα, όπως μια μετάφραση, μια μουσική ενορχήστρωση, μια "
+"δραματοποίηση, μια επαναφαντασίωση, μια κινηματογραφική εκδοχή, ηχογράφηση, "
+"αναπαραγωγή τέχνης, συντομογράφηση, περίληψη ή οποιαδήποτε άλλη μορφή με την "
+"οποία το Έργο μπορεί να αναδιαμορφωθεί, μετασχηματιστεί ή προσαρμοστεί, "
+"εκτός αν ένα έργο που αποτελεί Συλλογικό Έργο δε θα θεωρείται Παράγωγο Έργο "
+"για τον σκοπό αυτής της Άδειας. Για αποφυγή ασάφειας, όταν το Έργο είναι μια "
+"μουσική σύνθεση ή ηχογράφηση, η συγχρονισμός του Έργου με κινούμενη εικόνα ("
+"\"συγχρονισμός\") θα θεωρείται Παράγωγο Έργο για τον σκοπό αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:67
+msgid ""
+"\"Licensor\" means the individual or entity that offers the Work under the "
+"terms of this License."
+msgstr ""
+"\"Διαχειριστής Άδειας\" σημαίνει το άτομο ή το νομικό πρόσωπο που προσφέρει "
+"το Έργο βάσει των όρων αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:72
+msgid "\"Original Author\" means the individual or entity who created the Work."
+msgstr ""
+"\"Αρχικός Δημιουργός\" σημαίνει το άτομο ή το νομικό πρόσωπο που δημιούργησε "
+"το Έργο."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:77
+msgid ""
+"\"Work\" means the copyrightable work of authorship offered under the terms "
+"of this License."
+msgstr ""
+"\"Έργο\" σημαίνει το έργο πνευματικής ιδιοκτησίας που προσφέρεται βάσει των "
+"όρων αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:82
+msgid ""
+"\"You\" means an individual or entity exercising rights under this License "
+"who has not previously violated the terms of this License with respect to "
+"the Work, or who has received express permission from the Licensor to "
+"exercise rights under this License despite a previous violation."
+msgstr ""
+"\"Εσείς\" σημαίνει ένα άτομο ή νομικό πρόσωπο που ασκεί δικαιώματα βάσει "
+"αυτής της Άδειας και που δεν έχει παραβαίνει προηγουμένως τους όρους αυτής "
+"της Άδειας σχετικά με το Έργο, ή το οποίο έχει λάβει ρητή άδεια από τον "
+"Διαχειριστή Άδειας να ασκήσει δικαιώματα βάσει αυτής της Άδειας παρά την "
+"ύπαρξη προηγούμενης παραβίασης."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:90
+msgid ""
+"\"License Elements\" means the following high-level license attributes as "
+"selected by Licensor and indicated in the title of this License: "
+"Attribution, Noncommercial, ShareAlike."
+msgstr ""
+"\"Στοιχεία Άδειας\" σημαίνει τα ακόλουθα υψηλού επιπέδου χαρακτηριστικά "
+"άδειας που επιλέγονται από τον Διαχειριστή Άδειας και προσδιορίζονται στον "
+"τίτλο αυτής της Άδειας: Αναφορά, Μη Εμπορική Χρήση, Με την ίδια άδεια."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:99
+msgid ""
+"Fair Use Rights. Nothing in this license is intended to reduce, limit, or "
+"restrict any rights arising from fair use, first sale or other limitations "
+"on the exclusive rights of the copyright owner under copyright law or other "
+"applicable laws."
+msgstr ""
+"Δικαιώματα Δίκαιης Χρήσης. Τίποτα σε αυτήν την άδεια δεν έχει σκοπό να "
+"μειώσει, περιορίσει ή περιορίσει τα δικαιώματα που προκύπτουν από τη Δίκαιη "
+"Χρήση, την πρώτη πώληση ή άλλοι περιορισμοί στα αποκλειστικά δικαιώματα του "
+"κατόχου των πνευματικών δικαιωμάτων βάσει του περικείμενου του νόμου περί "
+"πνευματικής ιδιοκτησίας ή άλλων εφαρμοστέων νόμων."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:107
+msgid ""
+"License Grant. Subject to the terms and conditions of this License, Licensor "
+"hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for "
+"the duration of the applicable copyright) license to exercise the rights in "
+"the Work as stated below:"
+msgstr ""
+"Παροχή Άδειας. Υπό τους όρους και τις προϋποθέσεις αυτής της Άδειας, ο "
+"Διαχειριστής Άδειας χορηγεί εδώ σε εσάς μια παγκόσμια, απαλλαγμένη από "
+"ρόγες, μη αποκλειστική, διαρκή (για τη διάρκεια των εφαρμοστέων πνευματικών "
+"δικαιωμάτων) άδεια για να ασκήσετε τα δικαιώματα στο Έργο όπως περιγράφονται "
+"παρακάτω:"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:115
+msgid ""
+"to reproduce the Work, to incorporate the Work into one or more Collective "
+"Works, and to reproduce the Work as incorporated in the Collective Works;"
+msgstr ""
+"για να αναπαράγετε το Έργο, να ενσωματώσετε το Έργο σε ένα ή περισσότερα "
+"Συλλογικά Έργα και να αναπαράγετε το Έργο όπως ενσωματώνεται στα Συλλογικά "
+"Έργα;"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:121
+msgid "to create and reproduce Derivative Works;"
+msgstr "για να δημιουργήσετε και να αναπαράγετε Παράγωγα Έργα;"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:125
+msgid ""
+"to distribute copies or phonorecords of, display publicly, perform publicly, "
+"and perform publicly by means of a digital audio transmission the Work "
+"including as incorporated in Collective Works;"
+msgstr ""
+"για να διανέμετε αντίγραφα ή φωνοηχογραφήσεις, να το εμφανίζετε δημόσια, να "
+"το εκτελείτε δημόσια και να το εκτελείτε δημόσια μέσω ψηφιακής ακουστικής "
+"μετάδοσης το Έργο, συμπεριλαμβανομένου όπως ενσωματώνεται σε Συλλογικά Έργα;"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:132
+msgid ""
+"to distribute copies or phonorecords of, display publicly, perform publicly, "
+"and perform publicly by means of a digital audio transmission Derivative "
+"Works;"
+msgstr ""
+"για να διανέμετε αντίγραφα ή φωνοηχογραφήσεις, να τα εμφανίζετε δημόσια, να "
+"τα εκτελείτε δημόσια και να τα εκτελείτε δημόσια μέσω ψηφιακής ακουστικής "
+"μετάδοσης Παράγωγων Έργων;"
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:139
+msgid ""
+"The above rights may be exercised in all media and formats whether now known "
+"or hereafter devised. The above rights include the right to make such "
+"modifications as are technically necessary to exercise the rights in other "
+"media and formats. All rights not expressly granted by Licensor are hereby "
+"reserved, including but not limited to the rights set forth in Sections 4(e)  "
+"and 4(f)."
+msgstr ""
+"Τα παραπάνω δικαιώματα μπορούν να ασκηθούν σε όλα τα μέσα και τις μορφές, "
+"είτε είναι προς το παρόν γνωστά είτε εφεξής αναπτυγμένα. Τα παραπάνω "
+"δικαιώματα περιλαμβάνουν το δικαίωμα να πραγματοποιούνται τροποποιήσεις που "
+"είναι τεχνικά απαραίτητες για την ασκηση των δικαιωμάτων σε άλλα μέσα και "
+"μορφές. Όλα τα δικαιώματα που δεν χορηγούνται ρητά από τον Διαχειριστή "
+"Άδειας επιφυλάσσονται, συμπεριλαμβανομένων, αλλά όχι περιοριστικά, των "
+"δικαιωμάτων που καθορίζονται στις Ενότητες 4(e) και 4(f)."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:148
+msgid ""
+"Restrictions.The license granted in Section 3 above is expressly made "
+"subject to and limited by the following restrictions:"
+msgstr ""
+"Περιορισμοί. Η άδεια που χορηγείται στην Ενότητα 3 παραπάνω υπόκειται ρητώς "
+"σε και περιορίζεται από τους παρακάτω περιορισμούς:"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:155
+msgid ""
+"You may distribute, publicly display, publicly perform, or publicly "
+"digitally perform the Work only under the terms of this License, and You "
+"must include a copy of, or the Uniform Resource Identifier for, this License "
+"with every copy or phonorecord of the Work You distribute, publicly display, "
+"publicly perform, or publicly digitally perform. You may not offer or impose "
+"any terms on the Work that alter or restrict the terms of this License or "
+"the recipients' exercise of the rights granted hereunder. You may not "
+"sublicense the Work. You must keep intact all notices that refer to this "
+"License and to the disclaimer of warranties. You may not distribute, "
+"publicly display, publicly perform, or publicly digitally perform the Work "
+"with any technological measures that control access or use of the Work in a "
+"manner inconsistent with the terms of this License Agreement. The above "
+"applies to the Work as incorporated in a Collective Work, but this does not "
+"require the Collective Work apart from the Work itself to be made subject to "
+"the terms of this License. If You create a Collective Work, upon notice from "
+"any Licensor You must, to the extent practicable, remove from the Collective "
+"Work any reference to such Licensor or the Original Author, as requested. If "
+"You create a Derivative Work, upon notice from any Licensor You must, to the "
+"extent practicable, remove from the Derivative Work any reference to such "
+"Licensor or the Original Author, as requested."
+msgstr ""
+"Μπορείτε να διανέμετε, να εμφανίζετε δημόσια, να εκτελείτε δημόσια ή να "
+"εκτελείτε δημόσια μέσω ψηφιακής ακουστικής μετάδοσης το Έργο μόνο υπό τους "
+"όρους αυτής της Άδειας, και πρέπει να περιλαμβάνετε ένα αντίγραφο της "
+"παρούσας Άδειας ή το Ομοιόμορφο Αναγνωριστικό Πόρου (Uniform Resource "
+"Identifier - URI) γι' αυτήν με κάθε αντίγραφο ή φωνοηχογράφηση του Έργου που "
+"διανέμετε, εμφανίζετε δημόσια, εκτελείτε δημόσια ή εκτελείτε δημόσια μέσω "
+"ψηφιακής ακουστικής μετάδοσης. Δεν επιτρέπεται να προσφέρετε ή να επιβάλλετε "
+"οποιουδήποτε όρους στο Έργο που τροποποιούν ή περιορίζουν τους όρους αυτής "
+"της Άδειας ή την άσκηση των δικαιωμάτων που χορηγούνται στους παραλήπτες "
+"βάσει αυτής της Άδειας. Δεν επιτρέπεται η υπο-άδεια του Έργου. Πρέπει να "
+"διατηρείτε ανέπαφες όλες τις ειδοποιήσεις που αναφέρονται σε αυτήν την Άδεια "
+"και στην αποποίηση ευθυνών. Δεν επιτρέπεται να διανέμετε, να εμφανίζετε "
+"δημόσια, να εκτελείτε δημόσια ή να εκτελείτε δημόσια μέσω ψηφιακής "
+"ακουστικής μετάδοσης το Έργο με τη χρήση τεχνολογικών μέτρων που ελέγχουν "
+"την πρόσβαση ή τη χρήση του Έργου με τρόπο που είναι ασυμβίβαστος με τους "
+"όρους αυτής της Άδειας. Τα παραπάνω ισχύουν για το Έργο όπως ενσωματώνεται "
+"σε ένα Συλλογικό Έργο, αλλά αυτό δεν απαιτεί το Συλλογικό Έργο, εκτός από το "
+"Έργο καθαυτό, να υπόκειται στους όρους αυτής της Άδειας. Αν δημιουργήσετε "
+"ένα Συλλογικό Έργο, κατόπιν ειδοποίησης από κάθε Διαχειριστή Άδειας, πρέπει, "
+"όσο είναι εφικτό, να αφαιρέσετε από το Συλλογικό Έργο κάθε αναφορά σε αυτόν "
+"τον Διαχειριστή Άδειας ή τον Αρχικό Δημιουργό, όπως ζητηθεί. Αν "
+"δημιουργήσετε ένα Παράγωγο Έργο, κατόπιν ειδοποίησης από κάθε Διαχειριστή "
+"Άδειας, πρέπει, όσο είναι εφικτό, να αφαιρέσετε από το Παράγωγο Έργο κάθε "
+"αναφορά σε αυτόν τον Διαχειριστή Άδειας ή τον Αρχικό Δημιουργό, όπως ζητηθεί."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:178
+msgid ""
+"You may distribute, publicly display, publicly perform, or publicly "
+"digitally perform a Derivative Work only under the terms of this License, a "
+"later version of this License with the same License Elements as this "
+"License, or a Creative Commons iCommons license that contains the same "
+"License Elements as this License (e.g. Attribution-NonCommercial-ShareAlike "
+"2.0 Japan). You must include a copy of, or the Uniform Resource Identifier "
+"for, this License or other license specified in the previous sentence with "
+"every copy or phonorecord of each Derivative Work You distribute, publicly "
+"display, publicly perform, or publicly digitally perform. You may not offer "
+"or impose any terms on the Derivative Works that alter or restrict the terms "
+"of this License or the recipients' exercise of the rights granted hereunder, "
+"and You must keep intact all notices that refer to this License and to the "
+"disclaimer of warranties. You may not distribute, publicly display, publicly "
+"perform, or publicly digitally perform the Derivative Work with any "
+"technological measures that control access or use of the Work in a manner "
+"inconsistent with the terms of this License Agreement. The above applies to "
+"the Derivative Work as incorporated in a Collective Work, but this does not "
+"require the Collective Work apart from the Derivative Work itself to be made "
+"subject to the terms of this License."
+msgstr ""
+"Μπορείτε να διανέμετε, να εμφανίζετε δημόσια, να εκτελείτε δημόσια ή να "
+"εκτελείτε δημόσια μέσω ψηφιακής ακουστικής μετάδοσης ένα Παράγωγο Έργο μόνο "
+"υπό τους όρους αυτής της Άδειας, μιας μεταγενέστερης έκδοσης αυτής της "
+"Άδειας με τα ίδια Στοιχεία Άδειας όπως αυτή η Άδεια, ή μιας άδειας Creative "
+"Commons iCommons που περιέχει τα ίδια Στοιχεία Άδειας όπως αυτή η Άδεια ("
+"π.χ. Attribution-NonCommercial-ShareAlike 2.0 Japan). Πρέπει να "
+"περιλαμβάνετε ένα αντίγραφο της παρούσας Άδειας ή άλλης άδειας που "
+"καθορίζεται στην προηγούμενη πρόταση, ή το Ομοιόμορφο Αναγνωριστικό Πόρου "
+"(URI), με κάθε αντίγραφο ή φωνοηχογράφηση κάθε Παραγώγου Έργου που "
+"διανέμετε, εμφανίζετε δημόσια, εκτελείτε δημόσια ή εκτελείτε δημόσια μέσω "
+"ψηφιακής ακουστικής μετάδοσης. Δεν επιτρέπεται να προσφέρετε ή να επιβάλλετε "
+"οποιουδήποτε όρους στα Παράγωγα Έργα που τροποποιούν ή περιορίζουν τους "
+"όρους αυτής της Άδειας ή την άσκηση των δικαιωμάτων που χορηγούνται στους "
+"παραλήπτες βάσει αυτής της Άδειας, και πρέπει να διατηρείτε ανέπαφες όλες "
+"τις ειδοποιήσεις που αναφέρονται σε αυτήν την Άδεια και στην αποποίηση "
+"ευθυνών. Δεν επιτρέπεται να διανέμετε, να εμφανίζετε δημόσια, να εκτελείτε "
+"δημόσια ή να εκτελείτε δημόσια μέσω ψηφιακής ακουστικής μετάδοσης το "
+"Παράγωγο Έργο με τη χρήση τεχνολογικών μέτρων που ελέγχουν την πρόσβαση ή τη "
+"χρήση του Έργου με τρόπο που είναι ασυμβίβαστος με τους όρους αυτής της "
+"Άδειας. Τα παραπάνω ισχύουν για το Παράγωγο Έργο όπως ενσωματώνεται σε ένα "
+"Συλλογικό Έργο, αλλά αυτό δεν απαιτεί το Συλλογικό Έργο, εκτός από το "
+"Παράγωγο Έργο καθαυτό, να υπόκειται στους όρους αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:200
+msgid ""
+"You may not exercise any of the rights granted to You in Section 3 above in "
+"any manner that is primarily intended for or directed toward commercial "
+"advantage or private monetary compensation. The exchange of the Work for "
+"other copyrighted works by means of digital file-sharing or otherwise shall "
+"not be considered to be intended for or directed toward commercial advantage "
+"or private monetary compensation, provided there is no payment of any "
+"monetary compensation in connection with the exchange of copyrighted works."
+msgstr ""
+"Δεν μπορείτε να ασκήσετε κανένα από τα δικαιώματα που σας χορηγούνται στην "
+"Ενότητα 3 παραπάνω με τρόπο που κυρίως επιδιώκει ή είναι κατευθυνόμενο προς "
+"εμπορικό όφελος ή ιδιωτική χρηματική αποζημίωση. Η ανταλλαγή του Έργου με "
+"άλλα πνευματικά δικαιώματα μέσω ψηφιακής ανταλλαγής αρχείων ή με άλλο τρόπο "
+"δεν θα θεωρηθεί ως που επιδιώκεται ή κατευθύνεται προς εμπορικό όφελος ή "
+"ιδιωτική χρηματική αποζημίωση, εφόσον δεν υπάρχει καμία πληρωμή χρηματικής "
+"αποζημίωσης σε σχέση με την ανταλλαγή πνευματικών δικαιωμάτων."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:211
+msgid ""
+"If you distribute, publicly display, publicly perform, or publicly digitally "
+"perform the Work or any Derivative Works or Collective Works, You must keep "
+"intact all copyright notices for the Work and give the Original Author "
+"credit reasonable to the medium or means You are utilizing by conveying the "
+"name (or pseudonym if applicable) of the Original Author if supplied; the "
+"title of the Work if supplied; to the extent reasonably practicable, the "
+"Uniform Resource Identifier, if any, that Licensor specifies to be "
+"associated with the Work, unless such URI does not refer to the copyright "
+"notice or licensing information for the Work; and in the case of a "
+"Derivative Work, a credit identifying the use of the Work in the Derivative "
+"Work (e.g., \"French translation of the Work by Original Author,\" or "
+"\"Screenplay based on original Work by Original Author\"). Such credit may "
+"be implemented in any reasonable manner; provided, however, that in the case "
+"of a Derivative Work or Collective Work, at a minimum such credit will "
+"appear where any other comparable authorship credit appears and in a manner "
+"at least as prominent as such other comparable authorship credit."
+msgstr ""
+"Εάν διανέμετε, εμφανίζετε δημόσια, εκτελείτε δημόσια ή εκτελείτε δημόσια "
+"μέσω ψηφιακής ακουστικής μετάδοσης το Έργο ή οποιαδήποτε Παράγωγα Έργα ή "
+"Συλλογικά Έργα, πρέπει να διατηρείτε ανέπαφες όλες τις ειδοποιήσεις "
+"πνευματικών δικαιωμάτων για το Έργο και να δίνετε τα εύλογα απαιτούμενα "
+"αποδεικτικά στοιχεία στο μέσο ή τον τρόπο που χρησιμοποιείτε, αναφέροντας το "
+"όνομα (ή ψευδώνυμο, αν είναι εφαρμόσιμο) του Αρχικού Δημιουργού, εάν έχει "
+"παρασχεθεί· τον τίτλο του Έργου, εάν έχει παρασχεθεί· κατά το δυνατό, το "
+"Ομοιόμορφο Αναγνωριστικό Πόρου, εάν υπάρχει, που καθορίζεται από τον "
+"Διαχειριστή Άδειας για να συσχετίζεται με το Έργο, εκτός αν το URI αυτό δεν "
+"αναφέρεται στην ειδοποίηση πνευματικών δικαιωμάτων ή στις πληροφορίες άδειας "
+"για το Έργο· και στην περίπτωση ενός Παράγωγου Έργου, μια αναφορά που "
+"αναγνωρίζει τη χρήση του Έργου στο Παράγωγο Έργο (π.χ. \"Μετάφραση στα "
+"γαλλικά του Έργου από τον Αρχικό Δημιουργό\" ή \"Σενάριο βασισμένο στο "
+"αρχικό Έργο του Αρχικού Δημιουργού\"). Τέτοια αναφορά μπορεί να εφαρμοστεί "
+"με οποιονδήποτε λογικό τρόπο, υπό τον όρο, ωστόσο, ότι στην περίπτωση ενός "
+"Παράγωγου Έργου ή Συλλογικού Έργου, τουλάχιστον αυτή η αναφορά θα πρέπει να "
+"εμφανίζεται εκεί όπου εμφανίζεται οποιαδήποτε άλλη συγκρίσιμη αναφορά "
+"συγγραφής και με τρόπο τουλάχιστον τόσο έντονο όσο αυτή η άλλη συγκρίσιμη "
+"αναφορά συγγραφής."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:231
+msgid "For the avoidance of doubt, where the Work is a musical composition:"
+msgstr "Για αποφυγή ασάφειας, όταν το Έργο είναι μια μουσική σύνθεση:"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:237
+msgid ""
+"Performance Royalties Under Blanket Licenses. Licensor reserves the "
+"exclusive right to collect, whether individually or via a performance rights "
+"society (e.g. ASCAP, BMI, SESAC), royalties for the public performance or "
+"public digital performance (e.g. webcast) of the Work if that performance is "
+"primarily intended for or directed toward commercial advantage or private "
+"monetary compensation."
+msgstr ""
+"Δικαιώματα Εκτέλεσης με Άδειες Καλύμματος. Ο Διαχειριστής Άδειας διατηρεί το "
+"αποκλειστικό δικαίωμα να εισπράξει, είτε ατομικά είτε μέσω ενός συνδέσμου "
+"δικαιωμάτων εκτέλεσης (π.χ. ASCAP, BMI, SESAC), αποδοχές για τη δημόσια "
+"εκτέλεση ή τη δημόσια ψηφιακή εκτέλεση (π.χ. webcast) του Έργου, εάν αυτή η "
+"εκτέλεση είναι κυρίως προορισμένη για εμπορικό όφελος ή ιδιωτική χρηματική "
+"αποζημίωση."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:246
+msgid ""
+"Mechanical Rights and Statutory Royalties. Licensor reserves the exclusive "
+"right to collect, whether individually or via a music rights agency or "
+"designated agent (e.g. Harry Fox Agency), royalties for any phonorecord You "
+"create from the Work (\"cover version\") and distribute, subject to the "
+"compulsory license created by 17 USC Section 115 of the US Copyright Act (or "
+"the equivalent in other jurisdictions), if Your distribution of such cover "
+"version is primarily intended for or directed toward commercial advantage or "
+"private monetary compensation.  6. Webcasting Rights and Statutory "
+"Royalties.  For the avoidance of doubt, where the Work is a sound recording, "
+"Licensor reserves the exclusive right to collect, whether individually or "
+"via a performance-rights society (e.g. SoundExchange), royalties for the "
+"public digital performance (e.g. webcast) of the Work, subject to the "
+"compulsory license created by 17 USC Section 114 of the US Copyright Act (or "
+"the equivalent in other jurisdictions), if Your public digital performance "
+"is primarily intended for or directed toward commercial advantage or private "
+"monetary compensation."
+msgstr ""
+"Μηχανικά Δικαιώματα και Κατανομή Στατιστικών Δικαιωμάτων. Ο Διαχειριστής "
+"Άδειας διατηρεί το αποκλειστικό δικαίωμα να εισπράξει, είτε ατομικά είτε "
+"μέσω ενός πρακτορείου μουσικών δικαιωμάτων ή καθορισμένου πράκτορα (π.χ. "
+"Harry Fox Agency), αποδοχές για οποιαδήποτε φωνοηχογράφηση δημιουργήσετε από "
+"το Έργο (\"διασκευή\") και διανέμετε, υπό την αναγκαστική άδεια που "
+"δημιουργείται από την ενότητα 115 του Αμερικανικού Νόμου περί Πνευματικών "
+"Δικαιωμάτων του 17 USC (ή το αντίστοιχο σε άλλες δικαιοδοσίες), εάν η "
+"διανομή σας αυτής της διασκευής έχει κυρίως ως στόχο το εμπορικό όφελος ή "
+"την ιδιωτική χρηματική αποζημίωση. Δικαιώματα Webcasting και Κατανομή "
+"Στατιστικών Δικαιωμάτων. Για αποφυγή ασάφειας, όταν το Έργο είναι "
+"ηχογράφηση, ο Διαχειριστής Άδειας διατηρεί το αποκλειστικό δικαίωμα να "
+"εισπράξει, είτε ατομικά είτε μέσω ενός συλλόγου δικαιωμάτων εκτέλεσης (π.χ. "
+"SoundExchange), αποδοχές για τη δημόσια ψηφιακή εκτέλεση (π.χ. webcast) του "
+"Έργου, υπό την αναγκαστική άδεια που δημιουργείται από την ενότητα 114 του "
+"Αμερικανικού Νόμου περί Πνευματικών Δικαιωμάτων του 17 USC (ή το αντίστοιχο "
+"σε άλλες δικαιοδοσίες), εάν η δημόσια ψηφιακή εκτέλεσή σας έχει κυρίως ως "
+"στόχο το εμπορικό όφελος ή την ιδιωτική χρηματική αποζημίωση."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:269
+msgid ""
+"Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where "
+"the Work is a sound recording, Licensor reserves the exclusive right to "
+"collect, whether individually or via a performance-rights society (e.g.  "
+"SoundExchange), royalties for the public digital performance (e.g. webcast) "
+"of the Work, subject to the compulsory license created by 17 USC Section 114 "
+"of the US Copyright Act (or the equivalent in other jurisdictions), if Your "
+"public digital performance is primarily intended for or directed toward "
+"commercial advantage or private monetary compensation."
+msgstr ""
+"Δικαιώματα Webcasting και Κατανομή Στατιστικών Δικαιωμάτων. Για αποφυγή "
+"ασάφειας, όταν το Έργο είναι ηχογράφηση, ο Διαχειριστής Άδειας διατηρεί το "
+"αποκλειστικό δικαίωμα να εισπράξει, είτε ατομικά είτε μέσω ενός συλλόγου "
+"δικαιωμάτων εκτέλεσης (π.χ. SoundExchange), αποδοχές για τη δημόσια ψηφιακή "
+"εκτέλεση (π.χ. webcast) του Έργου, υπό την αναγκαστική άδεια που "
+"δημιουργείται από την ενότητα 114 του Αμερικανικού Νόμου περί Πνευματικών "
+"Δικαιωμάτων του 17 USC (ή το αντίστοιχο σε άλλες δικαιοδοσίες), εάν η "
+"δημόσια ψηφιακή εκτέλεσή σας έχει κυρίως ως στόχο το εμπορικό όφελος ή την "
+"ιδιωτική χρηματική αποζημίωση."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:284
+msgid "Representations, Warranties and Disclaimer"
+msgstr "Δηλώσεις, Εγγυήσεις και Αποποίηση Ευθύνης"
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:286
+msgid ""
+"UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR "
+"OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND "
+"CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, "
+"WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY, FITNESS FOR A "
+"PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER "
+"DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT "
+"DISCOVERABLE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED "
+"WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU."
+msgstr ""
+"ΕΚΤΟΣ ΕΑΝ ΚΑΤΑ ΚΟΙΝΗ ΣΥΜΦΩΝΙΑ ΤΩΝ ΜΕΡΩΝ ΣΕ ΓΡΑΠΤΗ ΜΟΡΦΗ, Ο ΔΙΑΧΕΙΡΙΣΤΗΣ "
+"ΑΔΕΙΑΣ ΠΡΟΣΦΕΡΕΙ ΤΟ ΕΡΓΟ \"ΩΣ ΕΧΕΙ\" ΚΑΙ ΔΕΝ ΚΑΝΕΙ ΚΑΜΙΑ ΔΗΛΩΣΗ Ή ΕΓΓΥΗΣΗ "
+"ΟΠΟΙΟΥΔΗΠΟΤΕ ΕΙΔΟΥΣ ΣΧΕΤΙΚΑ ΜΕ ΤΟ ΕΡΓΟ, ΕΚΦΡΑΣΜΕΝΕΣ, ΥΠΟΝΟΟΥΜΕΝΕΣ, "
+"ΣΥΝΤΑΓΜΕΝΕΣ ΑΠΟ ΤΟΝ ΝΟΜΟ Ή ΑΛΛΙΩΣ, ΣΥΜΠΕΡΙΛΑΜΒΑΝΟΜΕΝΩΝ, ΧΩΡΙΣ ΠΕΡΙΟΡΙΣΜΟ, "
+"ΕΓΓΥΗΣΕΩΝ ΓΙΑ ΤΗΝ ΤΙΤΛΟΤΗΤΑ, ΤΗΝ ΕΜΠΟΡΕΥΣΙΜΟΤΗΤΑ, ΤΗΣ ΚΑΤΑΛΛΗΛΟΤΗΤΑΣ ΓΙΑ "
+"ΣΥΓΚΕΚΡΙΜΕΝΟ ΣΚΟΠΟ, ΤΗΝ ΑΝΕΞΑΡΤΗΣΙΑ ΑΠΟ ΔΙΚΑΙΩΜΑΤΑ ΤΡΙΤΩΝ Ή ΤΗΝ ΑΠΟΥΣΙΑ "
+"ΚΡΥΦΩΝ Ή ΑΛΛΩΝ ΕΛΛΕΙΜΜΑΤΩΝ, ΑΚΡΙΒΕΙΑΣ, Ή ΤΗΣ ΠΑΡΟΥΣΙΑΣ Ή ΑΠΟΥΣΙΑΣ ΣΦΑΛΜΑΤΩΝ, "
+"ΕΙΤΕ ΕΙΝΑΙ Ή ΟΧΙ ΔΙΑΠΙΣΤΩΣΙΜΑ. ΟΡΙΣΜΕΝΕΣ ΔΙΚΑΙΟΔΟΣΙΕΣ ΔΕΝ ΕΠΙΤΡΕΠΟΥΝ ΤΟΝ "
+"ΑΠΟΚΛΕΙΣΜΟ ΤΩΝ ΥΠΟΝΟΟΥΜΕΝΩΝ ΕΓΓΥΗΣΕΩΝ, ΟΠΟΤΕ Ο ΑΠΟΚΛΕΙΣΜΟΣ ΑΥΤΟΣ ΕΝΔΕΧΕΤΑΙ "
+"ΝΑ ΜΗΝ ΙΣΧΥΕΙ ΣΤΗΝ ΠΕΡΙΠΤΩΣΗ ΣΑΣ."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:297
+msgid ""
+"Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN "
+"NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, "
+"INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS "
+"LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE "
+"POSSIBILITY OF SUCH DAMAGES."
+msgstr ""
+"Περιορισμός της Ευθύνης. ΕΚΤΟΣ ΕΑΝ ΕΠΙΒΑΛΛΕΤΑΙ ΑΠΟ ΤΟ ΙΣΧΥΟΝ ΔΙΚΑΙΟ, ΣΕ "
+"ΚΑΜΙΑ ΠΕΡΙΠΤΩΣΗ ΔΕΝ ΘΑ ΕΙΝΑΙ Ο ΔΙΑΧΕΙΡΙΣΤΗΣ ΑΔΕΙΑΣ ΥΠΕΥΘΥΝΟΣ ΑΠΕΝΑΝΤΙ ΣΑΣ ΣΕ "
+"ΚΑΜΙΑ ΝΟΜΙΚΗ ΘΕΩΡΙΑ ΓΙΑ ΟΠΟΙΕΣΔΗΠΟΤΕ ΕΙΔΙΚΕΣ, ΠΑΡΟΡΙΣΜΕΝΕΣ, ΑΠΟΡΡΟΦΗΤΙΚΕΣ Ή "
+"ΠΡΟΤΥΠΕΣ ΖΗΜΙΕΣ ΠΟΥ ΠΡΟΚΥΠΤΟΥΝ ΑΠΟ ΑΥΤΗΝ ΤΗΝ ΑΔΕΙΑ Ή ΑΠΟ ΤΗ ΧΡΗΣΗ ΤΟΥ ΕΡΓΟΥ, "
+"ΑΚΟΜΑ ΚΑΙ ΑΝ Ο ΔΙΑΧΕΙΡΙΣΤΗΣ ΑΔΕΙΑΣ ΕΧΕΙ ΕΝΗΜΕΡΩΘΕΙ ΓΙΑ ΤΗ ΔΥΝΑΤΟΤΗΤΑ ΤΕΤΟΙΩΝ "
+"ΖΗΜΙΩΝ."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:305
+msgid "Termination"
+msgstr "Λήξη"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:310
+msgid ""
+"This License and the rights granted hereunder will terminate automatically "
+"upon any breach by You of the terms of this License.  Individuals or "
+"entities who have received Derivative Works or Collective Works from You "
+"under this License, however, will not have their licenses terminated "
+"provided such individuals or entities remain in full compliance with those "
+"licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this "
+"License."
+msgstr ""
+"Αυτή η Άδεια και τα δικαιώματα που παραχωρούνται σύμφωνα με αυτήν θα λήξουν "
+"αυτόματα σε περίπτωση παραβίασης εσάς των όρων αυτής της Άδειας. Άτομα ή "
+"εντόμενα που έχουν λάβει Παράγωγα Έργα ή Συλλογικά Έργα από εσάς με βάση "
+"αυτήν την Άδεια, ωστόσο, δεν θα έχουν τις άδειές τους ληφθεί αν παραμείνουν "
+"πλήρως συμμορφωμένα με αυτές τις άδειες. Οι ενότητες 1, 2, 5, 6, 7 και 8 θα "
+"επιζήσουν οποιασδήποτε λήξης αυτής της Άδειας."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:320
+msgid ""
+"Subject to the above terms and conditions, the license granted here is "
+"perpetual (for the duration of the applicable copyright in the Work).  "
+"Notwithstanding the above, Licensor reserves the right to release the Work "
+"under different license terms or to stop distributing the Work at any time; "
+"provided, however that any such election will not serve to withdraw this "
+"License (or any other license that has been, or is required to be, granted "
+"under the terms of this License), and this License will continue in full "
+"force and effect unless terminated as stated above."
+msgstr ""
+"Υπό τους παραπάνω όρους και προϋποθέσεις, η άδεια που παραχωρείται εδώ είναι "
+"διαρκής (για τη διάρκεια των ισχύουσων πνευματικών δικαιωμάτων στο Έργο). "
+"Ωστόσο, παρά τα παραπάνω, ο Διαχειριστής Αδείας διατηρεί το δικαίωμα να "
+"κυκλοφορήσει το Έργο με διαφορετικούς όρους άδειας ή να σταματήσει τη "
+"διανομή του Έργου ανά πάσα στιγμή. Παρέχεται, ωστόσο, ότι τέτοια επιλογή δεν "
+"θα έχει ως αποτέλεσμα την ανάκληση αυτής της Άδειας (ή οποιασδήποτε άλλης "
+"άδειας που έχει χορηγηθεί, ή υποχρεούται να χορηγηθεί, βάσει των όρων αυτής "
+"της Άδειας), και αυτή η Άδεια θα συνεχίσει να ισχύει με πλήρη ισχύ, εκτός αν "
+"λυθεί όπως προαναφέρθηκε."
+
+#. type: Content of: <sect1><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:334
+msgid "Miscellaneous"
+msgstr "Διάφορα"
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:339
+msgid ""
+"Each time You distribute or publicly digitally perform the Work or a "
+"Collective Work, the Licensor offers to the recipient a license to the Work "
+"on the same terms and conditions as the license granted to You under this "
+"License."
+msgstr ""
+"Κάθε φορά που διανέμετε ή εκτελείτε δημόσια ψηφιακά το Έργο ή ένα Συλλογικό "
+"Έργο, ο Διαχειριστής Άδειας προσφέρει στον παραλήπτη μια άδεια για το Έργο "
+"με τους ίδιους όρους και προϋποθέσεις που παραχωρούνται σε εσάς με αυτήν την "
+"Άδεια."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:346
+msgid ""
+"Each time You distribute or publicly digitally perform a Derivative Work, "
+"Licensor offers to the recipient a license to the original Work on the same "
+"terms and conditions as the license granted to You under this License."
+msgstr ""
+"Κάθε φορά που διανέμετε ή εκτελείτε δημόσια ψηφιακά ένα Παράγωγο Έργο, ο "
+"Διαχειριστής Άδειας προσφέρει στον παραλήπτη μια άδεια για το αρχικό Έργο με "
+"τους ίδιους όρους και προϋποθέσεις που παραχωρούνται σε εσάς με αυτήν την "
+"Άδεια."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:353
+msgid ""
+"If any provision of this License is invalid or unenforceable under "
+"applicable law, it shall not affect the validity or enforceability of the "
+"remainder of the terms of this License, and without further action by the "
+"parties to this agreement, such provision shall be reformed to the minimum "
+"extent necessary to make such provision valid and enforceable."
+msgstr ""
+"Εάν οποιαδήποτε διάταξη αυτής της Άδειας είναι άκυρη ή μη εφαρμόσιμη σύμφωνα "
+"με το ισχύον δίκαιο, αυτό δεν θα επηρεάσει την εγκυρότητα ή την "
+"εφαρμοσιμότητα των υπολοίπων όρων αυτής της Άδειας, και χωρίς καμία επιπλέον "
+"ενέργεια από τα μέρη σε αυτήν τη συμφωνία, η σχετική διάταξη θα τροποποιηθεί "
+"στο ελάχιστο απαραίτητο βαθμό για να γίνει εγκύρη και εφαρμόσιμη."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:362
+msgid ""
+"No term or provision of this License shall be deemed waived and no breach "
+"consented to unless such waiver or consent shall be in writing and signed by "
+"the party to be charged with such waiver or consent."
+msgstr ""
+"Καμία διάταξη ή όρος αυτής της Άδειας δεν θα θεωρηθεί ως αποδεκτή ή ως "
+"συναίνεση σε παράβαση εκτός αν αυτή η αποποίηση ή συναίνεση γίνεται γραπτώς "
+"και υπογράφεται από το μέρος που θα πρέπει να αναλάβει αυτήν την αποποίηση ή "
+"συναίνεση."
+
+#. type: Content of: <sect1><orderedlist><listitem><orderedlist><listitem><para>
+#: lfs-en/appendices/creat-comm.xml:369
+msgid ""
+"This License constitutes the entire agreement between the parties with "
+"respect to the Work licensed here. There are no understandings, agreements "
+"or representations with respect to the Work not specified here.  Licensor "
+"shall not be bound by any additional provisions that may appear in any "
+"communication from You. This License may not be modified without the mutual "
+"written agreement of the Licensor and You."
+msgstr ""
+"Αυτή η Άδεια αποτελεί τη συνολική συμφωνία μεταξύ των μερών σχετικά με το "
+"Έργο που αδειοδοτείται εδώ. Δεν υπάρχουν συμφωνίες, συμφωνίες ή "
+"αντιπροσωπείες σχετικά με το Έργο που δεν έχουν καθοριστεί εδώ. Ο "
+"Διαχειριστής Άδειας δεν υποχρεούται από επιπρόσθετες διατάξεις που ενδέχεται "
+"να περιλαμβάνονται σε οποιαδήποτε επικοινωνία από εσάς. Αυτή η Άδεια δεν "
+"μπορεί να τροποποιηθεί χωρίς την αμοιβαία γραπτή συμφωνία του Διαχειριστή "
+"Άδειας και εσάς."
+
+#. type: Content of: <sect1><important><para>
+#: lfs-en/appendices/creat-comm.xml:383
+msgid ""
+"Creative Commons is not a party to this License, and makes no warranty "
+"whatsoever in connection with the Work. Creative Commons will not be liable "
+"to You or any party on any legal theory for any damages whatsoever, "
+"including without limitation any general, special, incidental or "
+"consequential damages arising in connection to this license. Notwithstanding "
+"the foregoing two (2)  sentences, if Creative Commons has expressly "
+"identified itself as the Licensor hereunder, it shall have all rights and "
+"obligations of Licensor."
+msgstr ""
+"Το Creative Commons δεν είναι μέρος σε αυτήν την Άδεια και δεν παρέχει καμία "
+"εγγύηση σχετικά με το Έργο. Το Creative Commons δεν θα φέρει καμία ευθύνη "
+"έναντί σας ή οποιουδήποτε τρίτου για οποιαδήποτε νομική θεωρία για "
+"οποιεσδήποτε ζημίες, συμπεριλαμβανομένων, χωρίς περιορισμό, γενικών, "
+"ειδικών, περιστασιακών ή συναφών ζημιών που προκύπτουν σε σχέση με αυτήν την "
+"άδεια. Παρά τις δύο (2) προηγούμενες προτάσεις, αν το Creative Commons έχει "
+"εκδηλώσει ρητώς τον εαυτό του ως Διαχειριστής Άδειας στα πλαίσια της "
+"παρούσας, τότε θα έχει όλα τα δικαιώματα και τις υποχρεώσεις του Διαχειριστή "
+"Άδειας."
+
+#. type: Content of: <sect1><important><para>
+#: lfs-en/appendices/creat-comm.xml:391
+msgid ""
+"Except for the limited purpose of indicating to the public that the Work is "
+"licensed under the CCPL, neither party will use the trademark \"Creative "
+"Commons\" or any related trademark or logo of Creative Commons without the "
+"prior written consent of Creative Commons. Any permitted use will be in "
+"compliance with Creative Commons' then-current trademark usage guidelines, "
+"as may be published on its website or otherwise made available upon request "
+"from time to time."
+msgstr ""
+"Εκτός από τον περιορισμένο σκοπό να δείξει στο κοινό ότι το Έργο είναι "
+"αδειοδοτημένο με την CCPL, καμία από τις δύο πλευρές δεν θα χρησιμοποιήσει "
+"το εμπορικό σήμα \"Creative Commons\" ή οποιοδήποτε σχετικό εμπορικό σήμα ή "
+"λογότυπο του Creative Commons χωρίς την προηγούμενη γραπτή συγκατάθεση του "
+"Creative Commons. Κάθε επιτρεπόμενη χρήση θα πρέπει να συμμορφώνεται με τις "
+"τότε ισχύουσες οδηγίες χρήσης εμπορικών σημάτων του Creative Commons, όπως "
+"αυτές ενδέχεται να δημοσιευτούν στον ιστότοπό του ή να διατίθενται κατόπιν "
+"αιτήματος από καιρό σε καιρό."
+
+#. type: Content of: <sect1><important><para>
+#: lfs-en/appendices/creat-comm.xml:399
+msgid ""
+"Creative Commons may be contacted at <ulink "
+"url='http://creativecommons.org/' />."
+msgstr ""
+"Μπορείτε να επικοινωνήσετε με την Creative Commons μέσα από την συγκεκριμένη "
+"διεύθυνση <ulink url='http://creativecommons.org/' />."
