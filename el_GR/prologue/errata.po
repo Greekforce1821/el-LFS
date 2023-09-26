@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:21+0000\n"
+"PO-Revision-Date: 2023-09-26 16:31+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/prologue_errata/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/prologue/errata.xml:11
+msgid "Errata and Security Advisories"
+msgstr "Σφάλματα και Συμβουλές Ασφαλείας"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/prologue/errata.xml:13
+msgid ""
+"The software used to create an LFS system is constantly being updated and "
+"enhanced. Security warnings and bug fixes may become available after the LFS "
+"book has been released. To check whether the package versions or "
+"instructions in this release of LFS need any modifications&mdash;to repair "
+"security vulnerabilities or to fix other bugs&mdash;please visit <ulink "
+"url=\"&errata;\"/> before proceeding with your build. You should note any "
+"changes shown and apply them to the relevant sections of the book as you "
+"build the LFS system."
+msgstr ""
+"Το λογισμικό που χρησιμοποιείται για τη δημιουργία ενός συστήματος LFS "
+"ενημερώνεται συνεχώς και βελτιώνεται. Προειδοποιήσεις ασφαλείας και "
+"διορθώσεις σφαλμάτων ενδέχεται να γίνουν διαθέσιμες μετά την έκδοση του "
+"βιβλίου LFS. Για να ελέγξετε εάν οι εκδόσεις των πακέτων ή οι οδηγίες σε "
+"αυτήν την έκδοση του LFS χρειάζονται τροποποιήσεις - είτε για την "
+"επιδιόρθωση προβλημάτων ασφαλείας είτε για τη διόρθωση άλλων σφαλμάτων - "
+"παρακαλούμε επισκεφθείτε το <ulink url=\"&errata;\"/> πριν συνεχίσετε με τη "
+"δημιουργία σας. Θα πρέπει να σημειώσετε κάθε αλλαγή που εμφανίζεται και να "
+"την εφαρμόσετε στις αντίστοιχες ενότητες του βιβλίου καθώς δημιουργείτε το "
+"σύστημα LFS."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/prologue/errata.xml:23
+msgid ""
+"In addition, the Linux From Scratch editors maintain a list of security "
+"vulnerabilities discovered <emphasis>after</emphasis> a book has been "
+"released. To read the list, please visit <ulink url=\"&secadv;\"/> before "
+"proceeding with your build. You should apply the changes suggested by the "
+"advisories to the relevant sections of the book as you build the LFS "
+"system.  And, if you will use the LFS system as a real desktop or server "
+"system, you should continue to consult the advisories and fix any security "
+"vulnerabilities, even when the LFS system has been completely constructed."
+msgstr ""
+"Επιπλέον, οι επεξεργαστές του Linux From Scratch διατηρούν μια λίστα με "
+"προβλήματα ασφαλείας που ανακαλύπτονται <emphasis>μετά την</emphasis> έκδοση "
+"ενός βιβλίου. Για να διαβάσετε τη λίστα αυτή, παρακαλούμε επισκεφθείτε το "
+"<ulink url=\"&secadv;\"/> πριν συνεχίσετε με τη δημιουργία σας. Θα πρέπει να "
+"εφαρμόσετε τις αλλαγές που προτείνονται από τις ειδοποιήσεις στις "
+"αντίστοιχες ενότητες του βιβλίου καθώς δημιουργείτε το σύστημα LFS. "
+"Επιπλέον, εάν πρόκειται να χρησιμοποιήσετε το σύστημα LFS ως πραγματική "
+"επιφάνεια εργασίας  ή εξυπηρετητή, θα πρέπει να συνεχίσετε να συμβουλεύεστε "
+"τις ειδοποιήσεις και να διορθώνετε οποιαδήποτε προβλήματα ασφαλείας, ακόμα "
+"και όταν το σύστημα LFS έχει κατασκευαστεί πλήρως."
