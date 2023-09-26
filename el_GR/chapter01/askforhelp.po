@@ -1,0 +1,305 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:22+0000\n"
+"PO-Revision-Date: 2023-09-26 16:31+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/chapter01_askforhelp/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/chapter01/askforhelp.xml:11
+msgid "Help"
+msgstr "Βοήθεια"
+
+#. type: Content of: <sect1><note><para>
+#: lfs-en/chapter01/askforhelp.xml:15
+msgid ""
+"In case you've hit an issue building one package with the LFS instruction, "
+"we strongly discourage posting the issue directly onto the upstream support "
+"channel before discussing via a LFS support channel listed in <xref "
+"linkend=\"ch-intro-resources\"/>.  Doing so is often quite inefficient "
+"because the upstream maintainers are rarely familiar with LFS building "
+"procedure.  Even if you've really hit an upstream issue, the LFS community "
+"can still help to isolate the information wanted by the upstream maintainers "
+"and make a proper report."
+msgstr ""
+"Σε περίπτωση που αντιμετωπίζετε πρόβλημα κατά τη διάρκεια της δημιουργίας "
+"ενός πακέτου με τις οδηγίες του LFS, συνιστούμε ανεπιφύλακτα να μην αναρτάτε "
+"το πρόβλημα απευθείας στο υποστηρικτικό κανάλι του δημιουργού πακέτου πριν "
+"συζητήσετε το ζήτημα μέσω ενός υποστηρικτικού καναλιού του LFS που "
+"αναφέρεται στην ενότητα <xref linkend=\"ch-intro-resources\"/>. Αυτό είναι "
+"συχνά ανεπαρκές, καθώς οι διαχειριστές του δημιουργού πακέτου σπάνια είναι "
+"εξοικειωμένοι με τις διαδικασίες δημιουργίας του LFS. Ακόμα και αν πρόκειται "
+"για πραγματικό πρόβλημα του δημιουργού του πακέτου, η κοινότητα του LFS "
+"μπορεί ακόμα να σας βοηθήσει να απομονώσετε τις πληροφορίες που χρειάζονται "
+"οι διαχειριστές του δημιουργού πακέτου και να καταθέσετε μια κατάλληλη "
+"αναφορά."
+
+#. type: Content of: <sect1><note><para>
+#: lfs-en/chapter01/askforhelp.xml:27
+msgid ""
+"If you must ask a question directly via an upstream support channel, you "
+"shall at least note that many upstream projects have the support channels "
+"separated from the bug tracker.  The <quote>bug</quote> reports for asking "
+"questions are considered invalid and may annoy upstream developers for these "
+"projects."
+msgstr ""
+"Εάν πρέπει να κάνετε μια ερώτηση απευθείας μέσω ενός υποστηρικτικού καναλιού "
+"του δημιουργού πακέτου, πρέπει τουλάχιστον να σημειώσετε ότι πολλά έργα "
+"διαχωρίζουν τα κανάλια υποστήριξης από τον ανιχνευτή σφαλμάτων. Οι αναφορές  "
+"<quote>σφαλμάτων</quote> για ερωτήσεις θεωρούνται μη έγκυρες και ενδέχεται "
+"να ενοχλήσουν τους δημιουργούς του πρότζεκτ αυτών των έργων."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter01/askforhelp.xml:35
+msgid ""
+"If an issue or a question is encountered while working through this book, "
+"please check the FAQ page at <ulink url=\"&faq-root;#generalfaq\"/>.  "
+"Questions are often already answered there. If your question is not answered "
+"on that page, try to find the source of the problem. The following hint will "
+"give you some guidance for troubleshooting: <ulink "
+"url=\"&hints-root;errors.txt\"/>."
+msgstr ""
+"Εάν αντιμετωπίσετε ένα θέμα ή μια ερώτηση κατά τη διάρκεια της εργασίας με "
+"αυτό το βιβλίο, παρακαλούμε ελέγξτε τη σελίδα FAQ στη διεύθυνση <ulink url"
+"=\"&faq-root;#generalfaq\"/>. Συχνά, οι ερωτήσεις έχουν ήδη απαντηθεί εκεί. "
+"Εάν η ερώτησή σας δεν απαντάται σε αυτήν τη σελίδα, προσπαθήστε να "
+"εντοπίσετε την πηγή του προβλήματος. Το ακόλουθο υπόδειγμα θα σας δώσει "
+"κάποιες κατευθυντήριες γραμμές για την επίλυση προβλημάτων: <ulink url"
+"=\"&hints-root;errors.txt\"/>."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter01/askforhelp.xml:42
+msgid ""
+"If you cannot find your problem listed in the FAQ, search the mailing lists "
+"at <ulink url=\"&lfs-root;search.html\"/>."
+msgstr ""
+"Εάν δεν μπορείτε να βρείτε το πρόβλημά σας στη λίστα των συχνών ερωτήσεων "
+"(FAQ), αναζητήστε τις λίστες ταχυδρομείου στη διεύθυνση <ulink url=\"&lfs-"
+"root;search.html\"/>."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter01/askforhelp.xml:45
+msgid ""
+"We also have a wonderful LFS community that is willing to offer assistance "
+"through the mailing lists and IRC (see the <xref "
+"linkend=\"ch-intro-resources\"/> section of this book). However, we get "
+"several support questions every day, and many of them could have been easily "
+"answered by going to the FAQ or by searching the mailing lists first.  So, "
+"for us to offer the best assistance possible, you should first do some "
+"research on your own. That allows us to focus on the more unusual support "
+"needs. If your searches do not produce a solution, please include all the "
+"relevant information (mentioned below) in your request for help."
+msgstr ""
+"Έχουμε επίσης μια υπέροχη κοινότητα LFS που είναι πρόθυμη να προσφέρει "
+"βοήθεια μέσω των λιστών ταχυδρομείου και του IRC (δείτε την ενότητα <xref "
+"linkend=\"ch-intro-resources\"/> αυτού του βιβλίου). Ωστόσο, λαμβάνουμε "
+"αρκετές ερωτήσεις υποστήριξης καθημερινά, και πολλές από αυτές θα μπορούσαν "
+"να απαντηθούν εύκολα πηγαίνοντας πρώτα στις συχνές ερωτήσεις (FAQ) ή "
+"αναζητώντας τις λίστες ταχυδρομείου. Επομένως, για να προσφέρουμε την "
+"καλύτερη δυνατή βοήθεια, θα πρέπει πρώτα να κάνετε μερικές έρευνες μόνοι "
+"σας. Αυτό μας επιτρέπει να επικεντρωθούμε στις πιο ασυνήθεις ανάγκες "
+"υποστήριξης. Εάν οι έρευνές σας δεν οδηγήσουν σε μια λύση, παρακαλούμε "
+"συμπεριλάβετε όλες τις σχετικές πληροφορίες (που αναφέρονται παρακάτω) στο "
+"αίτημα βοήθειας σας."
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/askforhelp.xml:56
+msgid "Things to Mention"
+msgstr "Πράγματα που πρέπει να Αναφερθούν"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:58
+msgid ""
+"Apart from a brief explanation of the problem being experienced, any request "
+"for help should include these essential things:"
+msgstr ""
+"Εκτός από μια σύντομη εξήγηση του προβλήματος που αντιμετωπίζετε, κάθε "
+"αίτημα βοήθειας θα πρέπει να περιλαμβάνει αυτά τα απαραίτητα στοιχεία:"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:63
+msgid "The version of the book being used (in this case &version;)"
+msgstr ""
+"Την έκδοση του βιβλίου που χρησιμοποιήσατε (σε αυτήν την περίπτωση &version;)"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:66
+msgid "The host distribution and version being used to create LFS"
+msgstr ""
+"Την διανομή του ξενιστή και την έκδοση που χρησιμοποιήσατε για να "
+"δημιουργήσετε το LFS"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:69
+msgid "The output from the <xref linkend='version-check'/> script"
+msgstr "Την έξοδο από το <xref linkend='version-check'/> script"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:72
+msgid "The package or section the problem was encountered in"
+msgstr "Το πακέτο ή την ενότητα που ήρθατε αντιμέτωποι με το πρόβλημα"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:75
+msgid "The exact error message, or a clear description of the problem"
+msgstr "Το ακριβές μήνυμα σφάλματος, ή μια καθαρή περιγραφή του προβλήματος"
+
+#. type: Content of: <sect1><sect2><itemizedlist><listitem><para>
+#: lfs-en/chapter01/askforhelp.xml:78
+msgid "Note whether you have deviated from the book at all"
+msgstr "Σημειώστε αν έχετε αποκλίνει από το βιβλίο σε οποιοδήποτε σημείο"
+
+#. type: Content of: <sect1><sect2><note><para>
+#: lfs-en/chapter01/askforhelp.xml:83
+msgid ""
+"Deviating from this book does <emphasis>not</emphasis> mean that we will not "
+"help you. After all, LFS is about personal preference.  Being up-front about "
+"any changes to the established procedure helps us evaluate and determine "
+"possible causes of your problem."
+msgstr ""
+"Αποκλίνοντας από αυτό το βιβλίο <emphasis>δεν</emphasis> σημαίνει ότι δεν θα "
+"σας βοηθήσουμε. Τελικά, το LFS αφορά τις προσωπικές προτιμήσεις. Το να είστε "
+"ειλικρινείς σχετικά με οποιεσδήποτε αλλαγές στην καθιερωμένη διαδικασία μας "
+"βοηθά να αξιολογήσουμε και να καθορίσουμε πιθανές αιτίες του προβλήματός σας."
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/askforhelp.xml:92
+msgid "Configure Script Problems"
+msgstr "Προβλήματα με το Σενάριο Διαμόρφωσης"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:94
+msgid ""
+"If something goes wrong while running the <command>configure</command> "
+"script, review the <filename>config.log</filename> file. This file may "
+"contain errors encountered during <command>configure</command> which were "
+"not printed to the screen. Include the <emphasis>relevant</emphasis> lines "
+"if you need to ask for help."
+msgstr ""
+"Εάν κάτι πάει στραβά κατά την εκτέλεση του σεναρίου <command>configure</"
+"command>, εξετάστε το αρχείο <filename>config.log</filename>. Αυτό το αρχείο "
+"μπορεί να περιέχει σφάλματα που εντοπίστηκαν κατά τη διάρκεια της εκτέλεσης "
+"του <command>configure</command> και που δεν εκτυπώθηκαν στην οθόνη. "
+"Συμπεριλάβετε τις <emphasis>σχετικές</emphasis> γραμμές αν χρειάζεστε "
+"βοήθεια."
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/askforhelp.xml:103
+msgid "Compilation Problems"
+msgstr "Προβλήματα Μεταγλώττισης"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:105
+msgid ""
+"Both the screen output and the contents of various files are useful in "
+"determining the cause of compilation problems. The screen output from the "
+"<command>configure</command> script and the <command>make</command> run can "
+"be helpful. It is not necessary to include the entire output, but do include "
+"all of the relevant information. Here is an example of the type of "
+"information to include from the <command>make</command> screen output."
+msgstr ""
+"Τόσο η έξοδος στην οθόνη όσο και το περιεχόμενο διάφορων αρχείων είναι "
+"χρήσιμα για τον προσδιορισμό των αιτιών για τα προβλημάτα μεταγλώττισης. Η "
+"έξοδος στην οθόνη από το σενάριο <command>configure</command> και η "
+"διαδικασία εκτέλεσης της εντολής <command>make</command> μπορεί να είναι "
+"χρήσιμες. Δεν είναι απαραίτητο να συμπεριλάβετε ολόκληρη την έξοδο, αλλά "
+"περιλάβετε όλες τις σχετικές πληροφορίες. Εδώ υπάρχει ένα παράδειγμα του "
+"είδους των πληροφοριών που πρέπει να συμπεριληφθούν από την έξοδο στην οθόνη "
+"της εντολής <command>make</command>."
+
+#. type: Content of: <sect1><sect2><screen>
+#: lfs-en/chapter01/askforhelp.xml:113
+#, no-wrap
+msgid ""
+"<computeroutput>gcc -DALIASPATH=\\\"/mnt/lfs/usr/share/locale:.\\\"\n"
+"-DLOCALEDIR=\\\"/mnt/lfs/usr/share/locale\\\"\n"
+"-DLIBDIR=\\\"/mnt/lfs/usr/lib\\\"\n"
+"-DINCLUDEDIR=\\\"/mnt/lfs/usr/include\\\" -DHAVE_CONFIG_H -I. -I.\n"
+"-g -O2 -c getopt1.c\n"
+"gcc -g -O2 -static -o make ar.o arscan.o commands.o dir.o\n"
+"expand.o file.o function.o getopt.o implicit.o job.o main.o\n"
+"misc.o read.o remake.o rule.o signame.o variable.o vpath.o\n"
+"default.o remote-stub.o version.o opt1.o\n"
+"-lutil job.o: In function `load_too_high':\n"
+"/lfs/tmp/make-3.79.1/job.c:1565: undefined reference\n"
+"to `getloadavg'\n"
+"collect2: ld returned 1 exit status\n"
+"make[2]: *** [make] Error 1\n"
+"make[2]: Leaving directory `/lfs/tmp/make-3.79.1'\n"
+"make[1]: *** [all-recursive] Error 1\n"
+"make[1]: Leaving directory `/lfs/tmp/make-3.79.1'\n"
+"make: *** [all-recursive-am] Error 2</computeroutput>"
+msgstr ""
+"<computeroutput>gcc -DALIASPATH=\\\"/mnt/lfs/usr/share/locale:.\\\"\n"
+"-DLOCALEDIR=\\\"/mnt/lfs/usr/share/locale\\\"\n"
+"-DLIBDIR=\\\"/mnt/lfs/usr/lib\\\"\n"
+"-DINCLUDEDIR=\\\"/mnt/lfs/usr/include\\\" -DHAVE_CONFIG_H -I. -I.\n"
+"-g -O2 -c getopt1.c\n"
+"gcc -g -O2 -static -o make ar.o arscan.o commands.o dir.o\n"
+"expand.o file.o function.o getopt.o implicit.o job.o main.o\n"
+"misc.o read.o remake.o rule.o signame.o variable.o vpath.o\n"
+"default.o remote-stub.o version.o opt1.o\n"
+"-lutil job.o: In function `load_too_high':\n"
+"/lfs/tmp/make-3.79.1/job.c:1565: undefined reference\n"
+"to `getloadavg'\n"
+"collect2: ld returned 1 exit status\n"
+"make[2]: *** [make] Error 1\n"
+"make[2]: Leaving directory `/lfs/tmp/make-3.79.1'\n"
+"make[1]: *** [all-recursive] Error 1\n"
+"make[1]: Leaving directory `/lfs/tmp/make-3.79.1'\n"
+"make: *** [all-recursive-am] Error 2</computeroutput>"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:132
+msgid "In this case, many people would just include the bottom section:"
+msgstr ""
+"Σε αυτήν την περίπτωση, πολλοί θα περιλάμβαναν απλώς την τελευταία ενότητα:"
+
+#. type: Content of: <sect1><sect2><screen>
+#: lfs-en/chapter01/askforhelp.xml:135
+#, no-wrap
+msgid "<computeroutput>make [2]: *** [make] Error 1</computeroutput>"
+msgstr "<computeroutput>make [2]: *** [make] Error 1</computeroutput>"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:137
+msgid ""
+"This is not enough information to diagnose the problem, because it only "
+"notes that something went wrong, not <emphasis>what</emphasis> went "
+"wrong. The entire section, as in the example above, is what should be saved "
+"because it includes the command that was executed and all the associated "
+"error messages."
+msgstr ""
+"Αυτό η πληροφορία όμως δεν επαρκεί για να διαγνώσετε το πρόβλημα, διότι "
+"αναφέρει μόνο ότι κάτι πήγε στραβά, χωρίς να δείχνει <emphasis>τι</emphasis> "
+"πήγε στραβά. Ολόκληρη η ενότητα, όπως στο παράδειγμα παραπάνω, είναι αυτή "
+"που πρέπει να αποθηκευθεί, διότι περιλαμβάνει την εντολή που εκτελέστηκε και "
+"όλα τα σχετικά μηνύματα σφάλματος."
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/askforhelp.xml:143
+msgid ""
+"An excellent article about asking for help on the Internet is available "
+"online at <ulink "
+"url=\"http://catb.org/~esr/faqs/smart-questions.html\"/>. Read this "
+"document, and follow the hints. Doing so will increase the likelihood of "
+"getting the help you need."
+msgstr ""
+"Ένα εξαιρετικό άρθρο σχετικά με το πώς να ζητάτε βοήθεια στο Διαδίκτυο είναι "
+"διαθέσιμο σε απευθείας σύνδεση στη διεύθυνση <ulink url=\"http://catb.org/~"
+"esr/faqs/smart-questions.html\"/>. Διαβάστε αυτό το έγγραφο και ακολουθήστε "
+"τις συμβουλές. Με αυτόν τον τρόπο, αυξάνετε τις πιθανότητες να λάβετε τη "
+"βοήθεια που χρειάζεστε."
