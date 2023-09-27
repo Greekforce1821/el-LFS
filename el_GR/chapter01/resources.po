@@ -1,0 +1,140 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:22+0000\n"
+"PO-Revision-Date: 2023-09-27 17:00+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/chapter01_resources/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/chapter01/resources.xml:11
+msgid "Resources"
+msgstr "Πόροι"
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/resources.xml:14
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:16
+msgid ""
+"If during the building of the LFS system you encounter any errors, have any "
+"questions, or think there is a typo in the book, please start by consulting "
+"the list of Frequently Asked Questions (FAQ), located at <ulink "
+"url=\"&faq-root;\"/>."
+msgstr ""
+"Εάν κατά τη διάρκεια της κατασκευής του συστήματος LFS αντιμετωπίσετε "
+"οποιοδήποτε σφάλμα, έχετε κάποια ερώτηση ή πιστεύετε ότι υπάρχει κάποιο "
+"τυπογραφικό στο βιβλίο, παρακαλούμε ξεκινήστε ανατρέχοντας στη λίστα των "
+"Συχνών Ερωτήσεων (FAQ), που βρίσκεται στη διεύθυνση <ulink url=\"&faq-root;\""
+"/>."
+
+#. type: Attribute 'xreflabel' of: <sect1><sect2>
+#: lfs-en/chapter01/resources.xml:23
+msgid "Chapter&nbsp;1 - Mailing Lists"
+msgstr "Chapter&nbsp;1 - Λίστες Αλληλογραφίας"
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/resources.xml:24
+msgid "Mailing Lists"
+msgstr "Λίστες Αλληλογραφίας"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:26
+msgid ""
+"The <systemitem class='domainname'>linuxfromscratch.org</systemitem> server "
+"hosts a number of mailing lists used for the development of the LFS "
+"project. These lists include the main development and support lists, among "
+"others. If you cannot find an answer to your problem on the FAQ page, the "
+"next step would be to search the mailing lists at <ulink "
+"url=\"&lfs-root;search.html\"/>."
+msgstr ""
+"O <systemitem class='domainname'>linuxfromscratch.org</systemitem> "
+"εξυπηρετητής φιλοξενεί έναν αριθμό από λίστες αλληλογραφίας που "
+"χρησιμοποιούνται για την ανάπτυξη του LFS έργου. Αυτές οι λίστες "
+"περιλαμβάνουν την κύρια λίστα ανάπτυξης και υποστήριξης, μεταξύ άλλων. Εάν "
+"δεν μπορείτε να βρείτε την απάντηση στο πρόβλημά σας στην σελίδας με τις "
+"Συχνές Ερωτήσεις (FAQ), το επόμενο βήμα θα ήταν να αναζητήσετε τις λίστες "
+"αλληλογραφίας στην διεύθυνση <ulink url=\"&lfs-root;search.html\"/>."
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:33
+msgid ""
+"For information on the different lists, how to subscribe, archive locations, "
+"and additional information, visit <ulink url=\"&lfs-root;mail.html\"/>."
+msgstr ""
+"Για πληροφορίες σχετικά με τις διάφορες λίστες, τον τρόπο εγγραφής, τις "
+"τοποθεσίες αρχειοθέτησης και επιπρόσθετες πληροφορίες, επισκεφθείτε τη "
+"διεύθυνση <ulink url=\"&lfs-root;mail.html\"/>."
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/resources.xml:55
+msgid "IRC"
+msgstr "IRC"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:57
+msgid ""
+"Several members of the LFS community offer assistance via Internet Relay "
+"Chat (IRC). Before using this support, please make sure your question is not "
+"already answered in the LFS FAQ or the mailing list archives. You can find "
+"the IRC network at <systemitem "
+"class='domainname'>irc.libera.chat</systemitem>.  The support channel is "
+"named #lfs-support."
+msgstr ""
+"Αρκετά μέλη της κοινότητας LFS προσφέρουν υποστήριξη μέσω Internet Relay "
+"Chat (IRC). Πριν χρησιμοποιήσετε αυτήν την υποστήριξη, βεβαιωθείτε ότι η "
+"ερώτησή σας δεν έχει ήδη απαντηθεί στο LFS FAQ ή στα αρχεία των λιστών "
+"αλληλογραφίας του LFS. Μπορείτε να βρείτε το δίκτυο IRC στο <systemitem "
+"class='domainname'>irc.libera.chat</systemitem>. Το κανάλι υποστήριξης "
+"ονομάζεται #lfs-support."
+
+#. type: Attribute 'xreflabel' of: <sect1><sect2>
+#: lfs-en/chapter01/resources.xml:76
+msgid "Chapter&nbsp;1 - Mirror sites"
+msgstr "Chapter&nbsp;1 - Ιστοσελίδες Mirror"
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/resources.xml:77
+msgid "Mirror Sites"
+msgstr "Ιστοσελίδες Mirror"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:79
+msgid ""
+"The LFS project has a number of world-wide mirrors to make accessing the "
+"website and downloading the required packages more convenient. Please visit "
+"the LFS website at <ulink url=\"&lfs-root;mirrors.html\"/> for a list of "
+"current mirrors."
+msgstr ""
+"Το LFS διαθέτει αρκετούς παγκόσμιους mirror ιστοτόπους προκειμένου να "
+"διευκολύνει την πρόσβαση στην ιστοσελίδα και τον λήψη των απαιτούμενων "
+"πακέτων. Επισκεφθείτε την ιστοσελίδα του LFS στη διεύθυνση <ulink url=\"&lfs-"
+"root;mirrors.html\"/> για μια λίστα με τους τρέχοντες mirror ιστοτόπους."
+
+#. type: Content of: <sect1><sect2><title>
+#: lfs-en/chapter01/resources.xml:87
+msgid "Contact Information"
+msgstr "Πληροφορίες Επικοινωνίας"
+
+#. type: Content of: <sect1><sect2><para>
+#: lfs-en/chapter01/resources.xml:89
+msgid ""
+"Please direct all your questions and comments to one of the LFS mailing "
+"lists (see above)."
+msgstr ""
+"Παρακαλούμε κατευθύνετε όλες τις ερωτήσεις και τα σχόλιά σας σε μία από τις "
+"λίστες αλληλογραφίας του LFS (βλ. παραπάνω)."
