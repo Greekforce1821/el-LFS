@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:21+0000\n"
+"PO-Revision-Date: 2023-09-28 18:22+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/chapter02_creatingfilesystem/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/chapter02/creatingfilesystem.xml:11
+msgid "Creating a File System on the Partition"
+msgstr "Δημιουργία ενός Συστήματος Αρχείων στο Διαμέρισμα"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:13
+msgid ""
+"A partition is just a range of sectors on a disk drive, delimited by "
+"boundaries set in a partition table. Before the operating system can use a "
+"partition to store any files, the partition must be formatted to contain a "
+"file system, typically consisting of a label, directory blocks, data blocks, "
+"and an indexing scheme to locate a particular file on demand. The file "
+"system also helps the OS keep track of free space on the partition, reserve "
+"the needed sectors when a new file is created or an existing file is "
+"extended, and recycle the free data segments created when files are "
+"deleted. It may also provide support for data redundancy, and for error "
+"recovery."
+msgstr ""
+"Ένα διαμέρισμα είναι απλώς ένα εύρος τομέων σε έναν σκληρό δίσκο, που "
+"περιορίζεται από τα όρια που ορίζονται σε έναν πίνακα διαμερισμού. Προτού το "
+"λειτουργικό σύστημα μπορέσει να χρησιμοποιήσει ένα διαμέρισμα για την "
+"αποθήκευση αρχείων, το διαμέρισμα πρέπει να μορφοποιηθεί για να περιέχει ένα "
+"σύστημα αρχείων. Αυτό το σύστημα αρχείων περιλαμβάνει συνήθως μία ετικέτα, "
+"τους τομείς καταλόγου, τους τομείς δεδομένων και ένα σχήμα ευρετηρίασης για "
+"τον εντοπισμό ενός συγκεκριμένου αρχείου κατά απαίτηση. Το σύστημα αρχείων "
+"βοηθά επίσης το λειτουργικό σύστημα να παρακολουθεί τον διαθέσιμο χώρο στο "
+"διαμέρισμα, να κρατάει τους απαιτούμενους τομείς όταν δημιουργείται ένα νέο "
+"αρχείο ή επεκτείνεται ένα υπάρχον αρχείο και να ανακυκλώνει τους ελεύθερους "
+"τομείς δεδομένων που δημιουργούνται όταν διαγράφονται αρχεία. Επίσης, μπορεί "
+"να παρέχει υποστήριξη για αντιγραφή δεδομένων και ανάκτηση σφαλμάτων."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:23
+msgid ""
+"LFS can use any file system recognized by the Linux kernel, but the most "
+"common types are ext3 and ext4.  The choice of the right file system can be "
+"complex; it depends on the characteristics of the files and the size of the "
+"partition.  For example:"
+msgstr ""
+"Το LFS μπορεί να χρησιμοποιήσει οποιοδήποτε σύστημα αρχείων που "
+"αναγνωρίζεται από τον πυρήνα Linux, αλλά οι πιο κοινοί τύποι είναι το ext3 "
+"και το ext4. Η επιλογή του σωστού συστήματος αρχείων μπορεί να είναι "
+"πολύπλοκη και εξαρτάται από τα χαρακτηριστικά των αρχείων και το μέγεθος του "
+"διαμερίσματος. Για παράδειγμα:"
+
+#. type: Content of: <sect1><variablelist><varlistentry><term>
+#: lfs-en/chapter02/creatingfilesystem.xml:30
+msgid "ext2"
+msgstr "ext2"
+
+#. type: Content of: <sect1><variablelist><varlistentry><listitem><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:31
+msgid ""
+"is suitable for small partitions that are updated infrequently such as "
+"/boot."
+msgstr ""
+"είναι κατάλληλο για μικρά διαμερίσματα που ενημερώνονται σπάνια, όπως το "
+"/boot."
+
+#. type: Content of: <sect1><variablelist><varlistentry><term>
+#: lfs-en/chapter02/creatingfilesystem.xml:36
+msgid "ext3"
+msgstr "ext3"
+
+#. type: Content of: <sect1><variablelist><varlistentry><listitem><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:37
+msgid ""
+"is an upgrade to ext2 that includes a journal to help recover the "
+"partition's status in the case of an unclean shutdown.  It is commonly used "
+"as a general purpose file system."
+msgstr ""
+"είναι μια αναβάθμιση του ext2 που περιλαμβάνει ένα αρχείο καταγραφής για να "
+"βοηθήσει στην ανάκτηση της κατάστασης του διαμερίσματος σε περίπτωση "
+"ανεπίσημου τερματισμού. Χρησιμοποιείται συνήθως ως ένα γενικού σκοπού "
+"σύστημα αρχείων."
+
+#. type: Content of: <sect1><variablelist><varlistentry><term>
+#: lfs-en/chapter02/creatingfilesystem.xml:44
+msgid "ext4"
+msgstr "ext4"
+
+#. type: Content of: <sect1><variablelist><varlistentry><listitem><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:45
+msgid ""
+"is the latest version of the ext family of file systems.  It provides "
+"several new capabilities including nano-second timestamps, creation and use "
+"of very large files (up to 16 TB), and speed improvements."
+msgstr ""
+"είναι η τελευταία έκδοση της οικογένειας αρχείων ext και προσφέρει αρκετές "
+"νέες δυνατότητες, συμπεριλαμβάνοντας την χρονοσήμανση με ακρίβεια "
+"νανοδευτερολέπτων, την δημιουργία και χρήση πολύ μεγάλων αρχείων (έως 16TB) "
+"και βελτίωση των ταχυτήτων."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:53
+msgid ""
+"Other file systems, including FAT32, NTFS, ReiserFS, JFS, and XFS are useful "
+"for specialized purposes. More information about these file systems, and "
+"many others, can be found at <ulink "
+"url=\"https://en.wikipedia.org/wiki/Comparison_of_file_systems\"/>."
+msgstr ""
+"Άλλα συστήματα αρχείων, όπως τα FAT32, NTFS, ReiserFS, JFS και XFS, είναι "
+"χρήσιμα για εξειδικευμένους σκοπούς. Μπορείτε να βρείτε περισσότερες "
+"πληροφορίες σχετικά με αυτά τα συστήματα αρχείων, καθώς και πολλά άλλα, στην "
+"ακόλουθη διεύθυνση <ulink url=\"https://en.wikipedia.org/wiki/"
+"Comparison_of_file_systems\"/>."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:58
+msgid ""
+"LFS assumes that the root file system (/) is of type ext4. To create an "
+"<systemitem class=\"filesystem\">ext4</systemitem> file system on the LFS "
+"partition, issue the following command:"
+msgstr ""
+"Το LFS υποθέτει ότι το ριζικό σύστημα αρχείων (/) είναι τύπου ext4. Για να "
+"δημιουργήσετε ένα σύστημα αρχείων <systemitem class=\"filesystem\">ext4</"
+"systemitem> στο διαμέρισμα του LFS, εκδώστε την ακόλουθη εντολή:"
+
+#. type: Content of: <sect1><screen>
+#: lfs-en/chapter02/creatingfilesystem.xml:62
+#, no-wrap
+msgid ""
+"<userinput>mkfs -v -t ext4 "
+"/dev/<replaceable>&lt;xxx&gt;</replaceable></userinput>"
+msgstr ""
+"<userinput>mkfs -v -t ext4 /dev/"
+"<replaceable>&lt;xxx&gt;</replaceable></userinput>"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:64
+msgid ""
+"Replace <replaceable>&lt;xxx&gt;</replaceable> with the name of the LFS "
+"partition."
+msgstr ""
+"Αντικαταστήστε <replaceable>&lt;xxx&gt;</replaceable> με το όνομα από το "
+"διαμέρισμα του LFS."
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:67
+msgid ""
+"If you are using an existing <systemitem class=\"filesystem\">swap "
+"</systemitem> partition, there is no need to format it. If a new <systemitem "
+"class=\"filesystem\"> swap</systemitem> partition was created, it will need "
+"to be initialized with this command:"
+msgstr ""
+"Αν χρησιμοποιείτε ήδη ένα υπάρχον <systemitem class=\"filesystem\">swap </"
+"systemitem> διαμέρισμα , δεν χρειάζεται να το μορφοποιήσετε. Αν "
+"δημιουργήσατε ένα νέο <systemitem class=\"filesystem\"> swap </systemitem> "
+"διαμερισμα, θα πρέπει να το αρχικοποιήσετε με την ακόλουθη εντολή:"
+
+#. type: Content of: <sect1><screen>
+#: lfs-en/chapter02/creatingfilesystem.xml:72
+#, no-wrap
+msgid "<userinput>mkswap /dev/<replaceable>&lt;yyy&gt;</replaceable></userinput>"
+msgstr ""
+"<userinput>mkswap /dev/<replaceable>&lt;yyy&gt;</replaceable></userinput>"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/creatingfilesystem.xml:74
+msgid ""
+"Replace <replaceable>&lt;yyy&gt;</replaceable> with the name of the "
+"<systemitem class=\"filesystem\">swap</systemitem> partition."
+msgstr ""
+"Αντικαταστήστε το <replaceable>&lt;yyy&gt;</replaceable> με το όνομα από το "
+"<systemitem class=\"filesystem\">swap</systemitem> διαμέρισμα."
