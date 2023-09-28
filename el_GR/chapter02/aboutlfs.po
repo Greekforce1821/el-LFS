@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2023-09-20 17:21+0000\n"
+"PO-Revision-Date: 2023-09-28 18:03+0000\n"
+"Last-Translator: Spyridon Eftychios Kokotos <spiroskoeu@gmail.com>\n"
+"Language-Team: Greek <https://translate.linuxfromscratch.org/projects/"
+"linux-from-scratch-12-0/chapter02_aboutlfs/el/>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.0.2\n"
+
+#. type: Content of: <sect1><title>
+#: lfs-en/chapter02/aboutlfs.xml:11
+msgid "Setting The $LFS Variable"
+msgstr "Ορίζοντας την μεταβλητή $LFS"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/aboutlfs.xml:13
+msgid ""
+"Throughout this book, the environment variable <envar>LFS</envar> will be "
+"used several times. You should ensure that this variable is always defined "
+"throughout the LFS build process. It should be set to the name of the "
+"directory where you will be building your LFS system - we will use <filename "
+"class=\"directory\">/mnt/lfs</filename> as an example, but you may choose "
+"any directory name you want. If you are building LFS on a separate "
+"partition, this directory will be the mount point for the partition.  Choose "
+"a directory location and set the variable with the following command:"
+msgstr ""
+"Σε όλο το βιβλίο αυτό, η μεταβλητή περιβάλλοντος <envar>LFS</envar> θα "
+"χρησιμοποιείται αρκετές φορές. Πρέπει να εξασφαλίσετε ότι αυτή η μεταβλητή "
+"είναι πάντα καθορισμένη κατά τη διάρκεια της διαδικασίας κατασκευής LFS. "
+"Πρέπει να οριστεί στο όνομα του καταλόγου όπου θα κατασκευάσετε το σύστημα "
+"LFS σας - ως παράδειγμα, θα χρησιμοποιήσουμε τον κατάλογο <filename class="
+"\"directory\">/mnt/lfs</filename>, αλλά μπορείτε να επιλέξετε οποιονδήποτε "
+"όνομα καταλόγου επιθυμείτε. Αν κατασκευάζετε το LFS σε ξεχωριστό διαμέρισμα, "
+"αυτός ο κατάλογος θα είναι το σημείο προσάρτησης για το διαμέρισμα. Επιλέξτε "
+"μια τοποθεσία για τον κατάλογο και ορίστε τη μεταβλητή με την ακόλουθη "
+"εντολή:"
+
+#. type: Content of: <sect1><screen>
+#: lfs-en/chapter02/aboutlfs.xml:23
+#, no-wrap
+msgid "<userinput>export LFS=<replaceable>/mnt/lfs</replaceable></userinput>"
+msgstr "<userinput>export LFS=<replaceable>/mnt/lfs</replaceable></userinput>"
+
+#. type: Content of: <sect1><para>
+#: lfs-en/chapter02/aboutlfs.xml:25
+msgid ""
+"Having this variable set is beneficial in that commands such as "
+"<command>mkdir -v $LFS/tools</command> can be typed literally. The shell "
+"will automatically replace <quote>$LFS</quote> with <quote>/mnt/lfs</quote> "
+"(or whatever value the variable was set to) when it processes the command "
+"line."
+msgstr ""
+"Η ορισμένη αυτή μεταβλητή είναι χρήσιμη, καθώς επιτρέπει την εκτέλεση "
+"εντολών όπως η <command>mkdir -v $LFS/tools</command> κυριολεκτικά. Το "
+"κέλυφος θα αντικαταστήσει αυτόματα το <quote>$LFS</quote> με το <quote>/mnt/"
+"lfs</quote> (ή την τιμή που έχει οριστεί η μεταβλητή) όταν επεξεργάζεται τη "
+"γραμμή εντολής."
+
+#. type: Content of: <sect1><caution><para>
+#: lfs-en/chapter02/aboutlfs.xml:32
+msgid ""
+"Do not forget to check that <envar>LFS</envar> is set whenever you leave and "
+"reenter the current working environment (such as when doing a "
+"<command>su</command> to <systemitem class=\"username\">root</systemitem> or "
+"another user). Check that the <envar>LFS</envar> variable is set up properly "
+"with:"
+msgstr ""
+"Μην ξεχνάτε να ελέγχετε ότι η μεταβλητή <envar>LFS</envar> είναι ορισμένη "
+"κάθε φορά που αφήνετε και ξαναμπαίνετε στο τρέχον περιβάλλον εργασίας (όπως "
+"όταν εκτελείτε την εντολή <command>su</command> για να γίνετε χρήστης "
+"<systemitem class=\"username\">root</systemitem> ή άλλου χρήστη). Ελέγξτε "
+"ότι η μεταβλητή <envar>LFS</envar> έχει οριστεί σωστά ως εξής:"
+
+#. type: Content of: <sect1><caution><screen>
+#: lfs-en/chapter02/aboutlfs.xml:38
+#, no-wrap
+msgid "<userinput>echo $LFS</userinput>"
+msgstr "<userinput>echo $LFS</userinput>"
+
+#. type: Content of: <sect1><caution><para>
+#: lfs-en/chapter02/aboutlfs.xml:40
+msgid ""
+"Make sure the output shows the path to your LFS system's build location, "
+"which is <filename class=\"directory\">/mnt/lfs</filename> if the provided "
+"example was followed. If the output is incorrect, use the command given "
+"earlier on this page to set <envar>$LFS</envar> to the correct directory "
+"name."
+msgstr ""
+"Βεβαιωθείτε ότι το αποτέλεσμα εμφανίζει τη διαδρομή προς τη θέση κατασκευής "
+"του συστήματος LFS, η οποία είναι ο <filename class=\"directory\">/mnt/lfs</"
+"filename> αν ακολουθήσατε το παρεχόμενο παράδειγμα. Εάν το αποτέλεσμα είναι "
+"λανθασμένο, χρησιμοποιήστε την εντολή που δόθηκε νωρίτερα σε αυτήν τη σελίδα "
+"για να ορίσετε τη μεταβλητή <envar>$LFS</envar> στο σωστό όνομα καταλόγου."
+
+#. type: Content of: <sect1><note><para>
+#: lfs-en/chapter02/aboutlfs.xml:47
+msgid ""
+"One way to ensure that the <envar>LFS</envar> variable is always set is to "
+"edit the <filename>.bash_profile</filename> file in both your personal home "
+"directory and in <filename>/root/.bash_profile</filename> and enter the "
+"export command above.  In addition, the shell specified in the "
+"<filename>/etc/passwd</filename> file for all users that need the "
+"<envar>LFS</envar> variable must be bash to ensure that the "
+"<filename>/root/.bash_profile</filename> file is incorporated as a part of "
+"the login process."
+msgstr ""
+"Ένας τρόπος για να εξασφαλίσετε ότι η μεταβλητή <envar>LFS</envar> είναι "
+"πάντα ορισμένη είναι να επεξεργαστείτε το αρχείο <filename>.bash_profile</"
+"filename> τόσο στον προσωπικό σας κατάλογο χρήστη όσο και στον κατάλογο "
+"<filename>/root/.bash_profile</filename> και να εισάγετε την εντολή εξαγωγής "
+"που αναφέρθηκε παραπάνω. Επιπλέον, το κέλυφος που καθορίζεται στο αρχείο "
+"<filename>/etc/passwd</filename> για όλους τους χρήστες που χρειάζονται τη "
+"μεταβλητή <envar>LFS</envar> πρέπει να είναι το bash, ώστε το αρχείο "
+"<filename>/root/.bash_profile</filename> να ενσωματώνεται στη διαδικασία "
+"σύνδεσης."
+
+#. type: Content of: <sect1><note><para>
+#: lfs-en/chapter02/aboutlfs.xml:56
+msgid ""
+"Another consideration is the method that is used to log into the host "
+"system.  If logging in through a graphical display manager, the user's "
+"<filename>.bash_profile</filename> is not normally used when a virtual "
+"terminal is started.  In this case, add the export command to the "
+"<filename>.bashrc</filename> file for the user and <systemitem "
+"class=\"username\">root</systemitem>.  In addition, some distributions use "
+"an \"if\" test, and do not run the remaining <filename>.bashrc</filename> "
+"instructions for a non-interactive bash invocation.  Be sure to place the "
+"export command ahead of the test for non-interactive use."
+msgstr ""
+"Ένα άλλο σημαντικό σημείο προς εξέταση είναι ο τρόπος εισόδου στο σύστημα "
+"φιλοξενίας. Εάν η είσοδος γίνεται μέσω ενός διαχειριστή γραφικού "
+"περιβάλλοντος, το αρχείο <filename>.bash_profile</filename> του χρήστη "
+"συνήθως δεν χρησιμοποιείται όταν ξεκινά ένα εικονικό τερματικό. Σε αυτήν την "
+"περίπτωση, προσθέστε την εντολή εξαγωγής (export) στο αρχείο <filename>."
+"bashrc</filename> για τον χρήστη και τον χρήστη <systemitem class=\"username"
+"\">root</systemitem>. Επιπλέον, ορισμένες διανομές χρησιμοποιούν έναν έλεγχο "
+"\"if\" και δεν εκτελούν τις υπόλοιπες εντολές από το αρχείο <filename>."
+"bashrc</filename> για τη μη διαδραστική κλήση του bash. Βεβαιωθείτε ότι "
+"τοποθετείτε την εντολή εξαγωγής μπροστά από τον έλεγχο για μη διαδραστική "
+"χρήση."
